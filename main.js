@@ -13,9 +13,32 @@ server.get('/echo', (req, res) => {
 
 
 
+
+
+
+
+
 // To handle POST, PUT and PATCH you need to use a body-parser
 // You can use the one used by JSON Server
 server.use(jsonServer.bodyParser)
+
+server.post('/api/login', (req, res) => {
+
+    const { email, password } = req.body;
+    const user = router.db.get('users').find({ email, password }).value();
+
+    if (!user) {
+        return res.status(401).json({ message: 'Email or password is incorrect' });
+    }
+
+    // Trả về thông tin user nếu đăng nhập thành công
+    res.json({ success: true, id: user.id, name: user.name });
+});
+
+
+
+
+
 server.use((req, res, next) => {
     if (req.method === 'POST') {
         // req.body.createdAt = Date.now()
