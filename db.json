@@ -173,5 +173,28 @@
       "dateAdded": 1719591621016,
       "id": 18
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "nguyennghia163tp@gmail.com",
+      "password": "123",
+      "name": "Nguyễn Trọng Nghĩa",
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 2,
+      "email": "trungkien19203@gmail.com",
+      "password": "gunner123@",
+      "name": "Nguyễn Trung Kiên ",
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "email": "lungbaphe772003@gmail.com",
+      "password": "123",
+      "name": "Phung Lê",
+      "dateAdded": 1720510286739,
+      "id": 3
+    }
   ]
 }
