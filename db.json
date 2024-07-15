@@ -36,27 +36,34 @@
     },
     {
       "id": 6,
-      "name": "Giống cây độc lạ"
+      "name": "Giống cây đặc biệt"
     }
   ],
   "products": [
     {
       "id": 1,
       "name": "Táo Thái Xanh",
-      "description": "Description",
-      "img": "https://trungtamcaygiongtiengiang.com/watermark/product/540x540x1/upload/product/z5353502009320c2555d812b8b632f254cdee9acec48c4-4104.jpg",
-      "price": 100000,
+      "description": "Từ khi trồng cây giống đến khi thu hoạch quả đầu tiên khoảng 12 tháng, thời gian thu hoạch kéo dài khoảng 3 tháng. tuổi thọ trung bình từ 10-15 năm.\n\nTáo Thái cho quả rất sai, quả hơi tròn có màu xanh bóng ăn giòn và có vị ngọt đậm chứ không có vị nhớt như giống táo đại. Táo thái loại lớn nhất có thể đạt từ 6- 8 trái/kg, loại nhỏ  bình thường từ 10 – 20 trái/kg\n\nBình quân năng suất giống Táo Thái đạt 7 tấn/sào, giá bán loại 1 là 10.000 đồng/kg, loại 2 dao động từ 6.000 – 7.000 đồng/kg.\n\nThu nhập trừ chi phí lãi từ 20 – 25 triệu đồng/sào, với 2ha năng suất đạt từ 140 – 150 tấn/năm, thu nhập lãi trên 400 triệu đồng/năm.\n\nHướng dẫn kĩ thuật trồng và chăm sóc cây Táo Thái\n\nMặc dù cây Táo Thái rất khỏe có khả năng thích nghi rộng nhưng để đảm bảo cây giống phát triển tốt nhất thì các bạn nên làm theo hướng dẫn và một vài yêu cầu cơ bản sau đây.",
+      "img": [
+        "https://trungtamcaygiongtiengiang.com/watermark/product/540x540x1/upload/product/z5353502009320c2555d812b8b632f254cdee9acec48c4-4104.jpg",
+        "https://thegioicaygiong.com/wp-content/uploads/2021/01/giong-tao-thai-ngot.jpg",
+        "https://bizweb.dktcdn.net/100/422/567/files/tao-xanh-thai-lan-cay-giong-can-tho.jpg?v=1622011218007"
+      ],"price": 100000,
       "quantity": 500,
-      "amountSold": 50,
+      "amountSold": 40,
       "categoryId": 1,
       "dateAdded": "2023-06-01"
     },
     {
       "id": 2,
       "name": "Táo Tàu PANZAO",
-      "description": "Description",
+      "description": "Thời gian quả chín là từ khoảng tháng 2 đến tháng 4. Quả chưa chín là những quả có màu xanh. Một cây có thể cho từ 30 – 40kg, quả tươi năng suất ước tính khoảng 20 – 30 tấn/ ha. \nQuả táo tàu sẽ được chia thành ba giai đoạn: \nQuả chín trắng: Lúc này quả có kích thước và hình dạng gần như đầy đủ. Phần vỏ quả mỏng chuyển từ màu xanh lúc sang màu trắng xanh. \nQuả chín: Quả có màu đỏ, phần vỏ dày và cứng hơn nên dễ dàng tách ra khỏi thịt. Sau đó sẽ trở nên giòn, ngon ngọt và chứa nhiều axit. \nChín hoàn toàn: Lúc này hàm lượng trong quả tăng nhanh và hàm lượng nước cũng bắt đầu giảm. Phần thịt gần hạt và cuống trở nên vàng và mềm. Vỏ chuyển sang màu đỏ sẫm và quả trở nên nhăn nheo. \nThời gian thu hoạch thích hợp phụ thuộc mục đích sử dụng quả. Nếu dùng tươi thì nên chọn quả chín giòn để kéo dài thời gian bảo quản.\nNếu sử dụng làm trái cây sấy thì nên hái khi trưởng thành hoàn toàn, còn trái cây sấy khô thì nên chọn hái ở giai đoạn chín màu trắng.\n",
       "img": "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/z46650615315847997236352d5434ff511bcacacefe46f-8829.jpg",
-      "price": 600000,
+      "img": [
+        "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/z46650615315847997236352d5434ff511bcacacefe46f-8829.jpg",
+        "https://nhavuonngoclam.com/wp-content/uploads/2022/11/Cay-tao-tau-hong-tao-panzao.jpg",
+        "https://nhavuonngoclam.com/wp-content/uploads/2022/11/qua-cay-hong-tao-panzao.jpg"
+      ],"price": 600000,
       "quantity": 300,
       "amountSold": 100,
       "categoryId": 1,
@@ -65,9 +72,12 @@
     {
       "id": 3,
       "name": "Cherry Brazil",
-      "description": "Description",
-      "img": "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/1accc77c-2dcc-4bb0-b2b9-8e363e553ff4-4020.jpeg",
-      "price": 100000,
+      "description": "Cây Cherry là cây ăn quả ngoại nhập thân gỗ lâu năm, chiều cao cây lên đến 10m, cây có đặc điểm gỗ cứng và được làm gỗ cao cấp. Cherry Brazil là cây vô cùng đặc biệt vừa là cây ăn quả, cây làm cảnh và lấy gỗ, dáng cây mảnh dẻ.\nĐặc điểm lá:\nLá có hình ovan giống lá mận thuôn dài và mỏng về sau, có chiều dài từ 9-16cm, chiều rộng từ 5-6cm, lá cây khá bóng được bao phủ bởi lớp lông 2 mặt trên và dưới.\nĐặc điểm hoa:\nHoa có 4 lá cánh màu trắng được bao quanh bởi 4 lá bắc cứng và xanh, mỗi bông có khoảng 100 nhị nhỏ màu trắng với bao phấn màu vàng nhạt. Hoa nở hàng năm cùng với thời điểm của cây đào.\nĐặc điểm quả:\nQuả có đường kính khoảng 2.5cm. Quả Cherry có cuống dài từ cánh đến quả, quả thường mọc thành từng chùm, khi còn non quả có màu xanh lá cây dần sau quả có màu đỏ tươi hoặc đỏ nâu, khi chín quả có màu nâu đen hoặc đen tuyền, bề mặt quả nhẵn bóng, trên đầu mỗi quả vẫn giữ nguyên có 4 lá bao quanh nó.\nQuả Cherry được coi là loại quả có giá trị dinh dưỡng cao, thơm, ngon rất tốt cho sức khỏe, quả thông thường có từ 2-3 hạt được tách khỏi lớp cùi bởi một lớp nhỏ hình tròn. Mùa ra quả thường là vào cuối tháng 11.\n",
+      "img": [
+        "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/1accc77c-2dcc-4bb0-b2b9-8e363e553ff4-4020.jpeg",
+        "https://caygiongdaihocnongnghiep.com/wp-content/uploads/2021/07/184961157_971917813579368_3505476236815045012_n.jpg",
+        "https://nhavuonkhanhvo.vn/wp-content/uploads/2022/05/cay-cherry-12.jpg"
+      ],"price": 100000,
       "quantity": 600,
       "amountSold": 120,
       "categoryId": 2,
@@ -75,10 +85,13 @@
     },
     {
       "id": 4,
-      "name": "Cherry Brazil",
-      "description": "Description",
-      "img": "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/z3930098302415d8e2d346f9b3af60eebbb86ccc109bc3-2374.jpg",
-      "price": 600000,
+      "name": "Cherry Mỹ",
+      "description": "Hiện nay, tại nhà vườn luôn có sẵn các loại cây Cherry Mỹ với các loại kích cỡ khác nhau, chúng đều có nguồn gốc nhập khẩu trực tiếp từ Mỹ với các ưu điểm nổi bật.\n•  Cây thân gỗ, dễ trồng, sức đề kháng tốt, ít sâu bệnh nên không tốn nhiều công chăm sóc.\n•  Cây giống Cherry Mỹ cao 1m tại nhà vườn sinh trưởng phát triển tốt, thích nghi với khí hậu Việt Nam.\n•  Giống nhiệt đới trồng được ở xứ nóng, ưa nắng, chịu hạn tốt, cây lùn sai quả\n•  Cây giống Cherry Mỹ cao 1m có thể cho thu hoạch nhanh sau 1 năm gieo trồng. Cây có tuổi thọ càng lâu cho năng suất quả càng cao.\n",
+      "img": [
+        "https://nhavuonngoclam.com/wp-content/uploads/2021/02/cay-cherry-my-giong.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKxsJy6i8cD9CqzyXul0DLJWGSN3dkI46X7w&s",
+        "https://hiengarden.vn/wp-content/uploads/2023/02/Cay-cherry-my.jpg"
+      ], "price": 600000,
       "quantity": 500,
       "amountSold": 150,
       "categoryId": 2,
@@ -86,10 +99,13 @@
     },
     {
       "id": 5,
-      "name": "Dừa Mã Lai",
-      "description": "Description",
-      "img": "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/09579487-1735-ban-dat-tho-cu-dat-o-huyen-ben-luc-7131.jpg",
-      "price": 60000,
+      "name": "Dừa Ẻo Đỏ (Xiêm Dây Đỏ)",
+      "description": "Tên khoa học: Cocos Nucifera\nTên địa phương: Dừa ẻo, Dừa xiêm dây\nNguồn gốc sản phẩm: TT cây giống Tiền Giang tuyển chọn và nhân giống với số lượng lớn\nTiêu chuẩn sản xuất: TCCS 13:2011/CGNTIS\nTỉ lệ đồng đều:  ≥95%\nTỉ lệ đúng giống: ≥90%\nĐặc tính sản phẩm:\n- Cây Dừa ẻo (Dừa xiêm dây) được trồng ở các tỉnh miền Trung chạy dài đến Cà Mau, ra tận các đảo xa. Vùng ven biển nhiều loài cây ăn trái không thể mọc được, cây dừa thơm vẫn tươi tốt.\n- Cây Dừa ưa thích đất có kết cấu tơi xốp, hàm lượng dinh dưỡng các chất dễ tiêu cao, đất không quá phèn với độ pH từ 4,8 trở lên là có thể trồng tốt. Trên vùng đất bạc màu cần cung cấp nhiều phân hữu cơ cho cây dừa để đạt năng suất và chất lượng cao.\n- Cây phát triển ở cao độ dưới 600m. Lượng mưa trên 1200mm, được phân bố đều, với ẩm độ cần trên 75%.\n- Cây có tính chống chịu khô hạn, ngập úng, mặn và gió bảo tốt.\nQuy trình sản xuất: sản xuất theo phương pháp tuyển chọn vườn, chọn cây bố mẹ, chọn trái để ươm giống\nCự ly trồng: 6x7m/cây, khoảng 230 cây/hecta, nếu trồng dày thì 5x6m/cây\nThời gian cho trái: sau 24-30 tháng trồng\nNăng suất: cây giống Dừa ẻo (Dừa xiêm dây) trung bình cho năng suất 300-320 trái/cây/năm\n",
+      "img": [
+        "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/09579487-1735-ban-dat-tho-cu-dat-o-huyen-ben-luc-7131.jpg",
+        "https://danviet.mediacdn.vn/296231569849192448/2021/12/28/11-1627295292999423371194-1640704194121-16407041943491098875342.jpeg",
+        "https://thegioicaytrong.vn/upload/img/products/08042019/e5e8d01b61873a993a309cf1ebd717b6.jpg"
+      ],"price": 60000,
       "quantity": 500,
       "amountSold": 400,
       "categoryId": 3,
@@ -97,10 +113,13 @@
     },
     {
       "id": 6,
-      "name": "Nho ngon tay đen",
-      "description": "Description",
-      "img": "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/z468507245738775565b9433db55df9e7e1ab61c0d949a-2025.jpg",
-      "price": 120000,
+      "name": "Nho ngón tay đen",
+      "description": "Nho ngón tay hay có tên gọi là nho phù thủy. Đây là loại nho có xuất xứ từ vùng Bakersfield bang California của Mỹ.\n\nLoại quả đặc trưng và chỉ mới xuất hiện ở một vài nước trong đó có Việt Nam thời gian gần đây.\n\nĐúng như tên gọi, nho ngón tay có màu tím thẫm mọc thành từng chùm một. Mỗi quả có hình dáng thuôn dài như hình những ngón tay khá lạ mắt. Khi chín nho có màu tím đỏ và lớp vỏ căng bóng tự nhiên.\n\nKhi khám phá bên trong bạn sẽ nhận thấy loại nho này dường như không có hạt. Cùi dày mọng nước khi ăn có vụ ngọt sắc và hương thơm khá dễ chịu.",
+      "img": [
+        "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/z468507245738775565b9433db55df9e7e1ab61c0d949a-2025.jpg",
+        "https://salt.tikicdn.com/ts/product/2d/5f/85/01b58e5ff55fca9d43341905ab01415b.jpg",
+        "https://caygiongdaihocnongnghiep.com/wp-content/uploads/2019/01/nho-ng%C3%B3n-tay.jpg"
+      ],"price": 120000,
       "quantity": 200,
       "amountSold": 50,
       "categoryId": 4,
@@ -109,9 +128,12 @@
     {
       "id": 7,
       "name": "Nho thân gỗ tứ quý",
-      "description": "Description",
-      "img": "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/nho-than-go-tu-quy-compressed-1-9931.jpg",
-      "price": 1000000,
+      "description": "Tên khoa học: Cocos Nucifera\nTên địa phương: Nho thân gỗ tứ quý\nNguồn gốc sản phẩm: Việt Nam\nTiêu chuẩn sản xuất: TCCS 13:2011/CGNTIS\nTỉ lệ đồng đều:  ≥95%\nTỉ lệ đúng giống: ≥90%\nQuy trình sản xuất: sản xuất theo phương pháp tuyển chọn vườn, chọn cây bố mẹ, chọn trái để ươm giống\nCự ly trồng: 6x7m/cây, khoảng 230 cây/hecta, nếu trồng dày thì 5x6m/cây\nThời gian cho trái: sau 24-30 tháng trồng\nNăng suất: cây giống Nho thân gỗ tứ quý trung bình cho năng suất 300-320 trái/cây/năm\n",
+      "img": [
+        "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/nho-than-go-tu-quy-compressed-1-9931.jpg",
+        "https://vuoncayvietnam.com/wp-content/uploads/2020/01/dac-diem-hinh-thai-cua-cay-nho-thango.jpg",
+        "https://vuoncayvietnam.com/wp-content/uploads/2020/01/dac-diem-hinh-thai-cua-cay-nho-thango.jpg"
+      ],"price": 1000000,
       "quantity": 300,
       "amountSold": 140,
       "categoryId": 4,
@@ -120,8 +142,12 @@
     {
       "id": 8,
       "name": "Nho thân gỗ 12 vụ",
-      "description": "Description",
-      "img": "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/z37752664232773904b19f6a393f3b257ed0457fc93a06-8932.jpg",
+      "description": "Cây Nho thân gỗ 12 vụ là giống nho đỏ hoàn toàn mới trên thị trường Việt Nam. Cây có sự khác lạ độc đáo bởi ra hoa kết trái đủ 12 tháng quanh năm.\n\n•   Cây Nho thân gỗ 12 vụ trưởng thành là dòng nho đỏ, 12 tháng quanh năm lúc nào cũng có hoa trái trên thân.\n\n•   Cây có hoa và quả mọc xum xuê từ gốc lên ngọn, dày đặc quanh thân rất bắt mắt.\n\n•   Kiểu dáng đẹp, độc, lạ, lá to dày xanh đậm.\n\n•   Trái nho to tròn căng mọng, khi chín màu đỏ mận, ăn ngọt và thơm.",
+      "img": [
+        "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/z37752664232773904b19f6a393f3b257ed0457fc93a06-8932.jpg",
+        "https://nhavuonngoclam.com/wp-content/uploads/2021/01/Nho-than-go-12-vu.jpg",
+        "https://nhavuonkhanhvo.vn/wp-content/uploads/2022/05/cay-nho-than-go-12-vu-truong-thanh-1593354215.jpeg"
+      ],
       "price": 1000000,
       "quantity": 200,
       "amountSold": 30,
@@ -131,8 +157,12 @@
     {
       "id": 9,
       "name": "Nho thân gỗ trái vàng",
-      "description": "Description",
-      "img": "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/z39321123442277a8f7adf4b5e68da010534ad833af4e2-1111.jpg",
+      "description": "Nho Thân Gỗ có tên nước ngoài là Jabuticaba. Giống cây kỳ lạ này được tìm thấy ở các nước Nam Mỹ như Brazil, Paraguay và Argentina. Được du nhập vào Việt Nam và rất phù hợp với khí hậu nhiệt đới ở Việt Nam.\n\nLà loại cây quý hiếm, cây lâu năm, thân gỗ, có thể cao đến 6 đến 7m. Cây có nhiều nhánh,khi ra hoa ra trái mọc rất nhiều trên thân, khi sống trái có màu xanh, sau đó chuyển màu hồng khi chín chuyển sang màu vàng, ngọn hướng thẳng lên trên",
+      "img": [
+        "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/z39321123442277a8f7adf4b5e68da010534ad833af4e2-1111.jpg",
+        "https://nhavuonngoclam.com/wp-content/uploads/2021/01/Nho-Than-Go-Vang-5Tr.png",
+        "https://nhavuonngoclam.com/wp-content/uploads/2021/01/Cay-Nho-Than-Go-Vang.jpg"
+      ],
       "price": 1200000,
       "quantity": 500,
       "amountSold": 100,
@@ -141,10 +171,13 @@
     },
     {
       "id": 10,
-      "name": "Vú sữa MICA",
-      "description": "Description",
-      "img": "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/z468507245738775565b9433db55df9e7e1ab61c0d949a-2025.jpg",
-      "price": 120000,
+      "name": "Vú sữa lò rèn",
+      "description": "Tên khoa học: Chrysophyllum Cainito L.\n Tên địa phương: Vú Sữa Lò Rèn \nNguồn gốc sản phẩm: do Công ty TNHH Nông trang Island nhân giống \nQuy cách bầu: 14x13cm \nQuy cách cây: đường kính gốc ≥0.7cm, chiều cao ≥37cm\nTiêu chuẩn sản xuất: TCCS 07:2011/CGNTIS \nTỉ lệ đồng đều ≥95%.\n Quy trình sản xuất: Sản xuất theo phương pháp ghép cành vườn cây đầu dòng Cự ly trồng: 6x7m/cây \nNăng suất: 30-40 tấn/năm \nChỉ tiêu khác: Dễ xử lý ra hoa, đậu trái\n",
+      "img": [
+        "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/z468507245738775565b9433db55df9e7e1ab61c0d949a-2025.jpg",
+        "https://bizweb.dktcdn.net/thumb/1024x1024/100/421/763/products/9c2f005a6f839addc392.jpg?v=1621675789067",
+        "https://www.nuibavi.com/userfiles/cayvusua1.jpg"
+      ],"price": 120000,
       "quantity": 500,
       "amountSold": 50,
       "categoryId": 5,
@@ -153,8 +186,12 @@
     {
       "id": 11,
       "name": "Vú sữa hoàng kim",
-      "description": "Description",
-      "img": "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/z3842389946381bdfb23d6b66c70ac5c233deb0b31e59d-8742.jpg",
+      "description": "Cây giống Vú sữa Hoàng Kim là giống vú sữa vàng xuất phát từ Đài Loan quả có vỏ mỏng nhưng căng bóng, có mùi thơm ngon đặc trưng. Khác với các loại vú sữa thông thường có màu xanh sẫm hoặc xanh tím, thịt quả mỏng, quả Vú sữa Hoàng Kim có vỏ vàng, thịt dày rất thơm.\n\nCây ra trái sau khi trồng 3 năm nếu trồng bằng hạt và 2 năm nếu trồng bằng phương pháp nhân giống vô tính. Đây là loại trái cây thượng hạng nên giá thành rất cao so với các loại trái cây khác. Đặc biệt, giống cây khá dễ trồng, ra quả quanh năm nên rất thích hợp với điều kiện khí hậu của nước ta.",
+      "img": [
+        "https://trungtamcaygiongtiengiang.com/watermark/product/289x289x1/upload/product/z3842389946381bdfb23d6b66c70ac5c233deb0b31e59d-8742.jpg",
+        "https://caygiongdaihocnongnghiep.com/wp-content/uploads/2021/07/217733161_1920187094826268_6497418049318882170_n.jpg",
+        "https://nhavuonngoclam.com/wp-content/uploads/2021/01/vu-sua-hoang-kim-loai-3.jpg"
+      ],
       "price": 100000,
       "quantity": 500,
       "amountSold": 50,
@@ -162,16 +199,229 @@
       "dateAdded": "2023-11-05"
     },
     {
-      "name": "Táo ngố",
-      "description": "Description",
-      "img": "https://trungtamcaygiongtiengiang.com/watermark/product/540x540x1/upload/product/z5353502009320c2555d812b8b632f254cdee9acec48c4-4104.jpg",
-      "price": 100000,
+      "name": "Nhãn Tiêu Da Bò 7 Tô",
+      "description": "- Nhân giống: Ghép hoặc chiết cành\n- Trọng lượng cây giống: ≥0.8kg\n- Đường kính gốc: ≥1cm\n- Chiều cao cây giống: ≥45cm\n- Thời gian cho trái: 2 năm\nTrồng nơi cao ráo. Xử lý nhện lông nhung gây bệnh chổi rồng.",
+      "img": [
+        "https://down-vn.img.susercontent.com/file/sg-11134201-23030-192wxg3ptbovf6",
+        "https://i.ex-cdn.com/nongnghiep.vn/files/damnm/2021/07/29/nhan-7-to-2-110806_539.jpg",
+        "https://salt.tikicdn.com/cache/w300/ts/product/e5/42/d9/6e335474d070b2b895321dde7e075afd.jpg"
+      ],"price": 100000,
       "quantity": 500,
       "amountSold": 50,
       "categoryId": 1,
-      "createdAt": 1719591621016,
       "dateAdded": 1719591621016,
-      "id": 18
+      "id": 12
+    },
+    {
+      "id": 13,
+      "name": "Sầu Riêng Ri6",
+      "description": "Tên khoa học: Durio\n\nTên địa phương: Sầu riêng cơm vàng hạt lép Ri 6\n\nNguồn gốc sản phẩm: do Công ty TNHH Nông trang Island sản xuất\n\nQuy cách bầu: 15x28cm\n\nQuy cách cây: đường kính gốc ≥1.2cm, chiều cao ≥40cm \n\nCHỈ TIÊU NĂNG SUẤT - CHẤT LƯỢNG SẢN PHẨM\nTiêu chuẩn sản xuất: TCCS 03:2011/CGNTIS\n\nTỉ lệ đồng đều ≥95%\n\nQuy trình sản xuất: Sản xuất theo phương pháp ghép, nguyên liệu lấy từ cành ở vườn cây đầu dòng.\n\nCự ly trồng: 7x7m/cây (~200 cây/ha)\n\nNăng suất: trung bình 25-30 tấn/năm",
+      "img": [
+        "https://thegioicaygiong.com/wp-content/uploads/2021/05/giong-cay-sau-rieng-ri6.jpg",
+        "https://caygiong4s.com/wp-content/uploads/sau-rieng-ri6.jpg",
+        "https://nhavuonkhanhvo.vn/wp-content/uploads/2022/05/cay-sau-rieng-ri6-co-trung-1593356243.jpeg"
+      ],
+      "price": 125000,
+      "quantity": 200,
+      "amountSold": 30,
+      "categoryId": 6,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 14,
+      "name": "Sầu Riêng Monthong",
+      "description": "Tên khoa học: Durio\n\nTên địa phương: Sầu riêng cơm vàng hạt lép Monthong\n\nNguồn gốc sản phẩm: do Công ty TNHH Nông trang Island sản xuất\n\nQuy cách bầu: 15x28cm\n\nQuy cách cây: đường kính gốc ≥1.2cm, chiều cao ≥40cm",
+      "img": [
+        "https://nongsanhaugiang.com.vn/images/10012020/f0c63bd8ed897e1605c14c955204c6b6.jpg",
+        "https://cf.shopee.vn/file/47def6aa168801d4b8923c73364715de",
+        "https://nongsanhaugiang.com.vn/images/10012020/93bf714a6b523023951f486f5b902be0.jpg"
+      ], "price": 125000,
+      "quantity": 350,
+      "amountSold": 50,
+      "categoryId": 6,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 15,
+      "name": "Ổi Ruby Ruột Đỏ",
+      "description": "Tên khoa học: Psidium guajava\nTên địa phương: Ổi Ruby ruột đỏ, Ổi Nữ Hoàng ruột đỏ\nNguồn gốc sản phẩm: do Công ty TNHH Nông trang Island sản xuất\nTiêu chuẩn sản xuất: TCCS 09:2011/CGNTIS\nTỉ lệ đồng đều ≥95%.\nQuy trình sản xuất: Sản xuất theo phương pháp chiết cành từ vườn cây đầu dòng.\nCự ly trồng: Cự ly trồng: 2,5x2,5m/cây. Khoảng 1300 cây/ha.\nNăng suất: bình quân năm thứ 1 đạt 18 tấn/ha; từ năm thứ 2 đạt đến 45- 60 tấn/ha.",
+      "img": [
+        "https://bizweb.dktcdn.net/100/023/406/products/img-2510.jpg?v=1597142695927",
+        "https://bizweb.dktcdn.net/100/023/406/products/img-6864.jpg?v=1597142695927",
+        "https://sieuthihatgiong.vn/wp-content/uploads/2023/02/C%C3%A2y%20%E1%BB%95i%20ruby%20ru%E1%BB%99t%20%C4%91%E1%BB%8Fcayoirubyruotdo0.JPG"
+      ],"price": 30000,
+      "quantity": 500,
+      "amountSold": 45,
+      "categoryId": 6,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 16,
+      "name": "Sapo (Hồng Xiêm) Lồng Mứt",
+      "description": "Tên khoa học: Manilkara Zapota,Linn.\nTên địa phương: Sapo / Hồng xiêm Lồng mứt\nNguồn gốc sản phẩm: do Công ty TNHH Nông trang Island nhân giống\nQuy cách bầu: xin vui lòng liên hệ NVKD\nQuy cách cây: xin vui lòng liên hệ NVKD\nTiêu chuẩn sản xuất: TCCS 15:2011/CGNTIS\nTỉ lệ đồng đều ≥95%.\nQuy trình sản xuất: Ươm hạt thu từ vườn cây đầu dòng\nCự ly trồng: 7x8m/cây\nNăng suất: 20-25 tấn/năm\nChỉ tiêu khác: Dễ ra hoa, đậu trái\n",
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/grande/100/407/635/files/cay-sapoche.jpg?v=1635842015865",
+        "https://pyloagri.com/wp-content/uploads/2021/10/Sapo-Mehico-3.jpeg",
+        "https://vuacaygiong.com/wp-content/uploads/2018/06/cay_giong_sapoche_hong_xiem-1.jpg"
+],      "price": 65000,
+      "quantity": 500,
+      "amountSold": 50,
+      "categoryId": 6,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 17,
+      "name": "Mít Không Hạt",
+      "description": "- Trọng lượng cây giống: ≥0.8kg\n\n- Đường kính gốc: ≥0.8cm\n\n- Chiều cao cây giống: ≥40cm\n\n- Thời gian cho trái: 02 năm\n\n- Trồng nơi cao ráo. Cây trưởng thành chịu hạn tốt, không ưa ngập úng.",
+      "img": [
+        "https://bizweb.dktcdn.net/100/421/763/products/3-48d3a45d-7db5-4574-828e-ef4e6dd5ad64.jpg?v=1620813028783",
+        "https://shopcaygiong.vn/wp-content/uploads/2020/10/118304709_993878867747289_3228550941137201237_o.jpg",
+        "https://bizweb.dktcdn.net/100/023/406/products/new0375-jpg.jpg?v=1479977989887"
+      ],      "price": 42000,
+      "quantity": 500,
+      "amountSold": 50,
+      "categoryId": 6,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 18,
+      "name": "Bòn Bon Thái",
+      "description": "Tên khoa học: Lansium domesticum\nTên địa phương: Bòn bon\nNguồn gốc sản phẩm: do Công ty TNHH Nông trang Island sản xuất\nQuy cách bầu: 16x18cm\nQuy cách cây: đường kính gốc ≥1cm, chiều cao ≥40cm\nTỉ lệ đồng đều ≥95%\nQuy trình sản xuất: Sản xuất theo phương pháp ghép cành từ vườn cây đầu dòng\nCự ly trồng: Trồng xen dưới tán cây đã lớn 3-4m/cây\nNăng suất: 15-20 tấn/năm\nChỉ tiêu khác: Dễ ra hoa, đậu trái\n",
+      "img": [
+        "https://bizweb.dktcdn.net/thumb/grande/100/422/567/files/img-5611.jpg?v=1621826508940",
+        "https://vuacaytrong.com/wp-content/uploads/2021/11/cay-bon-bon-thai-gion.webp",
+        "https://caygiongcaimon.vn/upload/caygiong/bonbonthai.jpg"
+      ],      "price": 185000,
+      "quantity": 500,
+      "amountSold": 50,
+      "categoryId": 6,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 19,
+      "name": "Chanh Giấy Limca",
+      "description": "Tên khoa học: Citrus x latifolia\nNguồn gốc sản phẩm: do Công ty TNHH Nông trang Island hợp tác với Công ty TNHH Thương mại Nguyên Nông nhập giống đầu tiên về Việt Nam từ những năm 2000 và sản xuất thương mại.\nQuy cách bầu: 11x12cm\nQuy cách cây: đường kính gốc ≥0.8cm, chiều cao ≥40cm\nChanh giấy Limca không hạt thích nghi với nhiều vùng sinh thái, có sức sinh trưởng và phát triển mạnh. Là giống chanh chống chịu với sâu bệnh khá tốt: Ít bị sâu vẽ bùa, bệnh ghẻ và loét gây hại.\nỞ nhiệt độ 15-350C và cao độ thích hợp dưới 1200m, cây Chanh giấy Limca không hạt sinh trưởng tốt.",
+      "img": [
+        "https://bizweb.dktcdn.net/100/324/966/files/chanh-giay-limca-khong-hat-nong-trang-island-1.png?v=1661320672712",
+        "https://bizweb.dktcdn.net/100/324/966/files/chanh-giay-limca-khong-hat-nong-trang-island-2.png?v=1661320673711",
+        "https://bizweb.dktcdn.net/100/324/966/files/chanh-giay-limca-khong-hat-nong-trang-island-5.png?v=1661320677228"
+      ],      "price": 25000,
+      "quantity": 500,
+      "amountSold": 16,
+      "categoryId": 6,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 20,
+      "name": "Bơ 034",
+      "description": "Tên khoa học: Persea Americana\nTên địa phương: Bơ sáp 034\nNguồn gốc sản phẩm: do Công ty TNHH Nông trang Island sưu tập, khảo nghiệm và nhân giống.\nQuy cách bầu: 13x20cm\nQuy cách cây: đường kính gốc ≥0.7cm, chiều cao ≥45cm\nTiêu chuẩn sản xuất: TCCS 20:2011/CGNTIS\nTỉ lệ đồng đều ≥95%\nQuy trình sản xuất: Sản xuất theo phương pháp lấy mắt ghép từ vườn cây đầu dòng ghép lên gốc ghép ươm từ hạt thương phẩm.\nCự ly trồng: 7x7m/cây.\nNăng suất: 35- 40 tấn/năm\nChỉ tiêu khác: Dễ ra hoa, đậu trái\n",
+      "img": [
+        "https://vuacay.com/wp-content/uploads/2018/09/giong-bo-034.jpg",
+        "https://lh6.googleusercontent.com/proxy/6DQs7T9E1T3mcq0u-Jci4oRiFWj4eeuD8eu3Yx9l7Alvcsj5xYE7JWzzdj2jg4LeBxhpSQ4WLPAGbWr5_rRPgK3EVyebmVgsCfDvBeiX-kbjmg",
+        "https://www.cayantrai.org/wp-content/uploads/2018/06/7b266c55d422a36e.jpg"
+      ],      "price": 45000,
+      "quantity": 300,
+      "amountSold": 28,
+      "categoryId": 6,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 21,
+      "name": "Bơ Booth 7",
+      "description": "Tên khoa học: Persea Americana\nTên địa phương: Bơ Booth 7\nNguồn gốc sản phẩm: do Công ty TNHH Nông trang Island sưu tập, khảo nghiệm và nhân giống.\nQuy cách bầu: 13x20cm\nQuy cách cây: đường kính gốc ≥0.7cm, chiều cao ≥45cm\nTiêu chuẩn sản xuất: TCCS 20:2011/CGNTIS\nTỉ lệ đồng đều ≥95%\nQuy trình sản xuất: Sản xuất theo phương pháp lấy mắt ghép từ vườn cây đầu dòng ghép lên gốc ghép ươm từ hạt thương phẩm.\nCự ly trồng: 7x7m/cây.\nNăng suất: 35- 40 tấn/năm\nChỉ tiêu khác: Dễ ra hoa, đậu trái\n",
+      "img": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5E2qL7UpjNJBEoEZL9zd4-_cc3yMOL9c2A&s",
+        "https://vuacaygiong.com/wp-content/uploads/2020/12/cay_bo_booth_7_sai_trai_tai_tay_nguyen.jpg",
+        "https://songanhfood.com/wp-content/uploads/2023/06/bo-booth-2.jpg"
+      ],      "price": 45000,
+      "quantity": 350,
+      "amountSold": 70,
+      "categoryId": 6,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 25,
+      "name": "Táo Thái",
+      "description": "Từ khi trồng cây giống đến khi thu hoạch quả đầu tiên khoảng 12 tháng, thời gian thu hoạch kéo dài khoảng 3 tháng. tuổi thọ trung bình từ 10-15 năm.\n\nTáo Thái cho quả rất sai, quả hơi tròn có màu xanh bóng ăn giòn và có vị ngọt đậm chứ không có vị nhớt như giống táo đại. Táo thái loại lớn nhất có thể đạt từ 6- 8 trái/kg, loại nhỏ  bình thường từ 10 – 20 trái/kg\n\nBình quân năng suất giống Táo Thái đạt 7 tấn/sào, giá bán loại 1 là 10.000 đồng/kg, loại 2 dao động từ 6.000 – 7.000 đồng/kg.\n\nThu nhập trừ chi phí lãi từ 20 – 25 triệu đồng/sào, với 2ha năng suất đạt từ 140 – 150 tấn/năm, thu nhập lãi trên 400 triệu đồng/năm.\n\nHướng dẫn kĩ thuật trồng và chăm sóc cây Táo Thái\n\nMặc dù cây Táo Thái rất khỏe có khả năng thích nghi rộng nhưng để đảm bảo cây giống phát triển tốt nhất thì các bạn nên làm theo hướng dẫn và một vài yêu cầu cơ bản sau đây.",
+      "img": [
+        "https://caygionguthien.vn/wp-content/uploads/2022/08/IMG_1487-scaled.jpg",
+        "https://nghientrongcay.com/wp-content/uploads/2022/10/z3785007951697_ef4b6658d07638a7e710494c3b6fe29d.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkZRuOC_LDubXSq0aOg3e-o27eMlVM1Ulosw&s"
+      ],      "price": 25000,
+      "quantity": 500,
+      "amountSold": 100,
+      "categoryId": 1,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 26,
+      "name": "Chúc (Chanh lá số 8)",
+      "description": "Nhân giống: Cây ươm hạt\nTrọng lượng cây giống: ≥0.25kg\nĐường kính gốc: ≥0.2cm\nChiều cao cây giống: ≥20cm\n Thời gian cho trái: 2.5 năm\nXử lý sâu bệnh tương tự Cây Bưởi\n",
+      "img": [
+        "https://cayantraidetrong.com/wp-content/uploads/2021/06/cay-chanh-thai-4.jpg",
+        "https://caygiong.com/cdn/shop/products/chanh-chuc-so-8-3-min.png?v=1702799968&width=416",
+        "https://caygiong.com/cdn/shop/products/chanh-chuc-so-8-4-min.png?v=1702799968&width=1445"
+      ],      "price": 45000,
+      "quantity": 500,
+      "amountSold": 60,
+      "categoryId": 6,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 27,
+      "name": "Dừa Ẻo Xanh (Xiêm Dây Xanh)",
+      "description": "Tên khoa học: Cocos Nucifera\nTên địa phương: Dừa ẻo, Dừa xiêm dây\nNguồn gốc sản phẩm: Công ty TNHH Nông trang Island tuyển chọn và nhân giống với số lượng lớn\nTiêu chuẩn sản xuất: TCCS 13:2011/CGNTIS\nTỉ lệ đồng đều:  ≥95%\nTỉ lệ đúng giống: ≥90%\n",
+      "img": [
+        "https://dua.vn/wp-content/uploads/2023/08/giong-cay-dua-eo-4-600x450.jpg",
+        "https://giongcamau.vn/uploads/shops/2023_02/cay-dua-xiem-day-3.jpg",
+        "https://dua.vn/wp-content/uploads/2023/08/giong-cay-dua-eo-3.jpg"
+      ],      "price": 40000,
+      "quantity": 500,
+      "amountSold": 20,
+      "categoryId": 3,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 28,
+      "name": "Dừa Xiêm Đỏ Lùn",
+      "description": "Tên khoa học: Cocos Nucifera\nTên địa phương: Dừa xiêm đỏ, Dừa xiêm đỏ lùn, Dừa xiêm lùn, Dừa lửa\nNguồn gốc sản phẩm: Công ty TNHH Nông trang Island tuyển chọn và nhân giống với số lượng lớn\nTiêu chuẩn sản xuất: TCCS 13:2011/CGNTIS\nTỉ lệ đồng đều:  ≥95%\nTỉ lệ đúng giống: ≥90%\nQuy trình sản xuất: sản xuất theo phương pháp tuyển chọn vườn, chọn cây bố mẹ, chọn trái để ươm giống\nCự ly trồng: 6x7m/cây, khoảng 230 cây/hecta, nếu trồng dày thì 5x6m/cây\nThời gian cho trái: sau 24-30 tháng trồng\nNăng suất: cây giống Dừa xiêm đỏ lùn trung bình cho năng suất 200-300 trái/cây/năm\n",
+      "img": [
+        "https://thegioicaytrong.vn/upload/img/products/08042019/e5e8d01b61873a993a309cf1ebd717b6.jpg",
+        "https://thegioicaytrong.vn/upload/images/giong-dua-xiem-do-2.jpg",
+        "https://thegioicaytrong.vn/upload/images/giong-dua-xiem-do.jpg"
+      ],      "price": 50000,
+      "quantity": 500,
+      "amountSold": 34,
+      "categoryId": 3,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 29,
+      "name": "Dừa Sáp",
+      "description": "Tên khoa học: Cocos Nucifera \nNguồn gốc sản phẩm: Công ty TNHH Nông trang Island tuyển chọn và nhân giống với số lượng lớn Công dụng: \n-  Dừa tươi làm thức uống giải khác và bồi dưỡng sức khỏe vì:\n Nước dừa nhiều đường Glucose, Fructose và Sucrose. Giàu đạm chất. Nhiều Vitamine C, B1 và khoáng chất. Nước dừa có thể dùng pha chế môi trường nuôi cấy mô. Tham gia vào quá trình chế biến thức ăn hay đóng hộp giúp việc tồn trử lâu dài, nâng cao được giá trị sản phẩm. Trái dừa là nguồn cung cấp thức uống tự nhiên thơm mát, bổ dưỡng và tinh khiết nhất. \n- Cung cấp nguyên liệu sản xuất mỹ phẩm cao cấp và là dược liệu quý bồi dưỡng, trị bệnh và làm đẹp.\n - Cơm dừa khô lấy dầu, làm bánh mứt, kẹo, phụ phẩm dùng làm thức ăn chăn nuôi hay phân bón.\n - Cơm dừa nạo làm thạch dừa, sấy khô là mặt hàng xuất khẩu ổn định, có hiệu quả kinh tế cao.\n - Tàu lá làm chất đốt, thân gỗ già để làm nhà, làm đồ gia dụng... Vỏ dừa lấy sơ làm thảm, vật liệu cách âm, ván lát, phân bón. Gáo dừa làm than hoạt tính để xử lý mùi và dùng trong y học để chữa bệnh. Các nghệ nhân đã sáng tác hàng trăm loại sản phẩm thủ công mỹ nghệ phục vụ nhu cầu xã hội.\n",
+      "img": [
+        "https://caynongnghiep.net/wp-content/uploads/2021/01/bc8b06932f4bd015895a-20200916132527.jpg",
+        "https://duasap.com.vn/wp-content/uploads/2022/01/dua-sap-uom-trai-4.jpg",
+        "https://bancaycanhdep.com/uploads/news/cay-giong-dua-sap.jpg"
+      ],      "price": 80000,
+      "quantity": 500,
+      "amountSold": 45,
+      "categoryId": 3,
+      "dateAdded": "2023-11-05"
+    },
+    {
+      "id": 30,
+      "name": "Mận An Phước (Cây Lớn)",
+      "description": "Tên khoa học: Syzygium samarangense\nTên địa phương:  Mận An Phước hay Mận chuông\nNguồn gốc sản phẩm: do Công ty TNHH Nông trang Island nhân giống.\nTiêu chuẩn sản xuất: TCCS 10:2011/CGNTIS\nTỉ lệ đồng đều ≥95%.\nQuy trình sản xuất: Sản xuất theo phương pháp ghép cành từ vườn cây đầu dòng\nCự ly trồng: 5x5m/cây.\nNăng suất: 35- 45 tấn/năm Dễ xử lý ra hoa, đậu trái.\nCho trái sau 1- 2 năm trồng. Thời vụ cho hoa trái tự nhiên từ tháng 12 năm trườc cho đến tháng 5 năm sau, khoảng 3 đợt trái. Nếu được trồng chăm sóc đúng qui trình kỹ thuật mận sẽ cho hoa trái theo ý muốn, bán được giá cao.\n",
+      "img": [
+        "https://caygionguthien.vn/wp-content/uploads/2022/03/275684115_1445331822553127_3273118436570551800_n.jpg",
+        "https://caygionguthien.vn/wp-content/uploads/2022/08/an-phuoc-3.jpg",
+        "https://bizweb.dktcdn.net/thumb/grande/100/422/567/files/cay-giong-can-tho-man-an-phuoc-5.jpg?v=1622015035932"
+      ],      "price": 40000,
+      "quantity": 500,
+      "amountSold": 80,
+      "categoryId": 6,
+      "dateAdded": "2023-11-05"
     }
   ],
   "users": [
