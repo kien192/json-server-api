@@ -16,27 +16,33 @@
   "categories": [
     {
       "id": 1,
-      "name": "Giống cây táo"
+      "name": "Giống cây táo",
+      "img" : "https://images.pexels.com/photos/221076/pexels-photo-221076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 2,
-      "name": "Giống cây CHERRY"
+      "name": "Giống cây CHERRY",
+      "img": "https://images.pexels.com/photos/3220347/pexels-photo-3220347.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 3,
-      "name": "Giống cây dừa"
+      "name": "Giống cây dừa",
+      "img": "https://caygiong.com/cdn/shop/collections/Cay_giong_Dua_-_Nong_trang_island.png?v=1704624804&width=750"
     },
     {
       "id": 4,
-      "name": "Giống cây nho"
+      "name": "Giống cây nho",
+      "img": "https://images.pexels.com/photos/708777/pexels-photo-708777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 5,
-      "name": "Giống cây vú sữa"
+      "name": "Giống cây vú sữa",
+      "img": "https://askthegreengenie.com/wp-content/uploads/2017/08/chrysophyllum-cainito-star-apple-purple-caimito-1000412857-1403553772.jpg"
     },
     {
       "id": 6,
-      "name": "Giống cây đặc biệt"
+      "name": "Giống cây đặc biệt",
+      "img" : "https://caygiong.com/cdn/shop/collections/Cay_giong_noi_bat_-_Nong_trang_island.png?v=1704626074&width=750"
     }
   ],
   "products": [
