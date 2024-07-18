@@ -20,7 +20,7 @@ server.post('/api/login', (req, res) => {
     const user = router.db.get('users').find({ email, password }).value();
 
     if (!user) {
-        return res.status(401).json({ message: 'Email or password is incorrect' });
+        return res.status(401).json({ message: 'Email hoặc mật khẩu không chính xác.' });
     }
 
     // Trả về thông tin user nếu đăng nhập thành công
